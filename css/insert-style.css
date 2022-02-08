@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;800&display=swap');
+
+#title-form h4{
+    height: 70px;
+    font-family: 'Poppins', sans-serif;
+    font-style: normal;
+    font-weight: bold;
+    color: #FAF6F6;
+    padding-top: inherit;
+}
+
+#title-form{
+    padding: 11px 20px;
+    background: #48805E;
+    border-radius: 8px;
+    margin-right: 20px;
+    margin-left: 20px;
+    margin-bottom: 20px;
+}
+
